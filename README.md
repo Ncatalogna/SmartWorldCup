@@ -3,8 +3,8 @@ Soccer World Cup Russia 2018 Intelligent bet Contract. This is a development exp
 
 **Development members**
 
-Nicolas A. Catalogna <nicocatalogna@gmail.com>
-Juan Carlos Quintero <juanquinterodj@gmail.com>
+* Nicolas A. Catalogna <nicocatalogna@gmail.com>
+* Juan Carlos Quintero <juanquinterodj@gmail.com>
 
 **Documentation**
 
